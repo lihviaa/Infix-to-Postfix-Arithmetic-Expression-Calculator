@@ -58,6 +58,13 @@ To run the program:
 ## Example
 Here is an example of how to use the Calculator:
 
+<img src="https://github.com/lihviaa/Infix-to-Postfix-Arithmetic-Expression-Calculator/blob/main/assets/execucao_setInfix.png" alt="primeiro método">
+<img src="https://github.com/lihviaa/Infix-to-Postfix-Arithmetic-Expression-Calculator/blob/main/assets/execucao_setVars.png" alt="segundo método">
+<img src="https://github.com/lihviaa/Infix-to-Postfix-Arithmetic-Expression-Calculator/blob/main/assets/execucao_InfixtoPost.png" alt="terceiro método">
+<img src="https://github.com/lihviaa/Infix-to-Postfix-Arithmetic-Expression-Calculator/blob/main/assets/execucao_ExpressEval.png" alt="quarto método">
+<img src="https://github.com/lihviaa/Infix-to-Postfix-Arithmetic-Expression-Calculator/blob/main/assets/execucao_exit.png" alt="quinto método">
+
+
 
 ## References
 - https://www.geeksforgeeks.org/generics-in-java/
